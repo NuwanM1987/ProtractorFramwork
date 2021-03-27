@@ -32,7 +32,7 @@ it('Substraction test',function () {
     homepage.clickGo();
     homepage.VerifyResult('10');
   
-    browser.sleep(3000);
+    browser.sleep(6000);
     // browser.get('http://juliemr.github.io/protractor-demo/');
      // element(by.model('first')).sendKeys("3");
     //element(by.model('second')).sendKeys("7");
